@@ -1,6 +1,6 @@
-token=NTI3Mzc5OTM3NTQwMzA4OTkz.DwS4tQ.hRRGv4uJETPXBGP9uCaispXFljg
-owner=433198762706599936
-prefix=1
-game= 7akawy SERVER
+token=NTQ4MjI0NjA4MDU5NTIzMTAz.D1CNeA.8NZm-8WFnBRZVPS9Qd4WZgMNZn8
+owner=391610156896747520
+prefix=R
+game=Rplay
 stayinchannel=true
 songinstatus=true 
