@@ -1,6 +1,6 @@
-token=NTQ4MjI0NjA4MDU5NTIzMTAz.D1CNeA.8NZm-8WFnBRZVPS9Qd4WZgMNZn8
-owner=391610156896747520
-prefix=R
-game=Rplay
+token=NTQxMzc5NTU4MzU2NjgwNzA0.D2FIWg.MjlGnPWqOyndPOmkDl3wRBzHMVY
+owner=512625982751113216
+prefix=1
+game=Type 1Help
 stayinchannel=true
 songinstatus=true 
