@@ -1,6 +1,6 @@
 token=NTQxMzc5NTU4MzU2NjgwNzA0.D2FIWg.MjlGnPWqOyndPOmkDl3wRBzHMVY
 owner=512625982751113216
-prefix=1
-game=Type 1Help
+prefix=+
+game=Sky|Family<3
 stayinchannel=true
 songinstatus=true 
