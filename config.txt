@@ -1,6 +1,6 @@
-token=NTcyMDE4ODk2MTExMDA5Nzkz.XMWMHw.g2tZpPAMmhQuIfEeWVoHEkf_5mM
+token=NTcyMDAwNjE1NDI1OTAwNTY2.XMWMVA.RvWpaz0jj8E-y82PXpsI1hRR-38
 owner=378614040173346816
-prefix=q
-game=Quran | Hox
+prefix=1
+game=Type 1Help
 stayinchannel=true
 songinstatus=true 
